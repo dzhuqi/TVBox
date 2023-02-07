@@ -19,7 +19,6 @@
 {"key": "csp_BBB","name":"🅱哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaotengdGO9/TVBox/raw/branch/master/json/%e5%93%94%e5%93%a9%e5%a5%97%e9%a4%90.json"},
 {"key":"Yisou","name":"🔍易搜(仅搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0c55c9f1c5cb4327ae2e51423276bb1e"},
 {"key": "神马影院","name": "🐎神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Lezhu_spider","name": "🍀乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar": "https://agit.ai/xiaotengdGO9/TVBox/raw/branch/master/jar/28.jar"},
 {"key":"csp_biubiu_大象TV","name":"🍀大象TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.bilnn.com/api/v3/file/sourcejump/r4mrBmUe/hQZb7LnK34ZRBqFil90x8bYr_E1WcLBHm0T5gO_k_9o*"}
 ],
 
