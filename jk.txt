@@ -59,13 +59,13 @@
 {
 "name": "redirect",
 "urls": [
-"proxy://do=live&type=txt&ext=aHR0cDovL3d3dy5tOTUyNy50b3AvbWwudHh0"
+"proxy://do=live&type=txt&ext=https://gitee.com/dzhuqi/TVBox/raw/master/2.txt"
 ]
 }
 ]
 }
 ],
-"wallpaper":"https://qiu.moe/a723",
+"wallpaper":"",
 "spider":"https://agit.ai/xiaotengdGO9/TVBox/raw/branch/master/jar/1128.jar",
 
 
