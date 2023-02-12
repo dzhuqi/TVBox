@@ -46,14 +46,14 @@
 {
 "name": "redirect",
 "urls": [
-"proxy://do=live&type=txt&ext=https://gitee.com/dzhuqi/TVBox/raw/master/2.txt"
+"proxy://do=live&type=txt&ext=https://gitee.com/dzhuqi/TVBox1/raw/master/2.txt"
 ]
 }
 ]
 }
 ],
 "wallpaper":"",
-"spider":"https://gitee.com/dzhuqi/TVBox1/raw/master/jar/1128.jar",
+"spider":"https://agit.ai/xiaotengdGO9/TVBox/raw/branch/master/jar/1128.jar",
 
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
