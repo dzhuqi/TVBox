@@ -19,11 +19,6 @@
 {"key":"快看影视","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
 {"key":"音乐","name":"🎸音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaotengdGO9/TVBox/raw/branch/master/json/%e9%9f%b3%e4%b9%90%e7%8e%b0%e5%9c%ba.json"},
 {"key":"热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaotengdGO9/TVBox/raw/branch/master/json/%e5%a5%b3%e5%9b%a2%e7%83%ad%e8%88%9e.json"},
-{"key": "csp_BBB","name":"🅱哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaotengdGO9/TVBox/raw/branch/master/json/%e5%93%94%e5%93%a9%e5%a5%97%e9%a4%90.json"},
-{"key":"Yisou","name":"🔍易搜(仅搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0c55c9f1c5cb4327ae2e51423276bb1e"},
-{"key": "神马影院","name": "🐎神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"量子影视2","name":"🎸量子影视2","type":3,"api":"csp_lzys","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/dzhuqi/TVBox/raw/master/json/%E9%87%8F%E5%AD%90%E5%BD%B1%E8%A7%862.josn"},
-{"key":"csp_biubiu_大象TV","name":"🍀大象TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.bilnn.com/api/v3/file/sourcejump/r4mrBmUe/hQZb7LnK34ZRBqFil90x8bYr_E1WcLBHm0T5gO_k_9o*"}
 ],
 
 
