@@ -11,7 +11,6 @@
 //资源
 "sites":[
 {"key":"量子影视","name":"🐝量子影视","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"免费电影","name":"💢免费电影","type":1,"api":"http://dzhuqi.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"百影视频","name":"💢百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
 {"key":"LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Cokemv","name":"💢Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
