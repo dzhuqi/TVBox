@@ -1,4 +1,4 @@
-设置——配置地址——存储权限——接口地址——确定
+设置——配置地址——存储权限——接口地址——确定 https://gitee.com/dzhuqi/TVBox/raw/master/3.txt
 ### TVBox 开源版
 - TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。  
 - 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。  
