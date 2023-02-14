@@ -36,8 +36,7 @@
         "日韩综艺",
         "欧美综艺"
       ]
-    },
-{"key":"csp_biubiu_思古影视","name":"🥒思古影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/思古影视.json"}
+    }
   ],
   "lives": [
 {
