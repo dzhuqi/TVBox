@@ -1,4 +1,4 @@
-﻿{
+{
 
   "sites": [
     {
@@ -283,5 +283,7 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
+  "spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar", 
+  "spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
   "spider": "https://agit.ai/xiaotengdGO9/TVBox/raw/branch/master/jar/1128.jar"
 }
