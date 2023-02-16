@@ -42,7 +42,7 @@
 {
 "name": "redirect",
 "urls": [
-"proxy://do=live&type=txt&ext=https://gitee.com/dzhuqi/TVBox/raw/master/2.txt"
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vZHpodXFpL1RWQm94L3Jhdy9tYXN0ZXIvanNvbi8yLnR4dA=="
 ]
 }
 ]
