@@ -85,13 +85,13 @@ ce,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227059/index
 金鹰卡通,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227018/index.m3u8
 咪咕体育,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227047/index.m3u8
 
-🌏｜🇨🇳｜百视高清,#genre#
+🌏｜🇨🇳｜香港台,#genre#
 凤凰卫视中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰卫视中文台,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视资讯台,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 凤凰卫视资讯台,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
+🌏｜🇨🇳｜百视高清,#genre#
 CCTV1 8M,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2 8M,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 CCTV3 8M,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
