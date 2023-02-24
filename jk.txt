@@ -5,8 +5,8 @@
 {"key":"LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"新浪资源","name":"新浪资源👀","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod","searchable":1,"playerType":2,"quickSearch":1},
 {"key":"音乐","name":"🎸音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/dzhuqi/TVBox/raw/master/json/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
-{"key":"热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/dzhuqi/TVBox/raw/master/json/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"}
-"zidingyi": [
+{"key":"热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/dzhuqi/TVBox/raw/master/json/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"},
+
 {"name": "有声小说",
 "url": "https://m.tingzh.com",
 "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
@@ -76,7 +76,7 @@
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\"",
-"bfqianzhui": ""}
+"bfqianzhui": ""},
 ],
 
 
