@@ -76,7 +76,7 @@
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\"",
-"bfqianzhui": ""},
+"bfqianzhui": ""}
 ],
 
 
