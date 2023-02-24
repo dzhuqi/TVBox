@@ -19,7 +19,7 @@
 {"name":"创艺电影","url":"http://www.30dian.cn/api.php/v1.vod"},
 {"name":"555电影","url":"https://555dy3.com/api.php/app/"},
 {"name":"豆芽视频","url":"http://bdintv.cn/lvdou_api.php/v1.vod"},
-{"name":"萌蛋蛋","url":"http://app.mengdandan.com/xgapp.php/v1/"}
+{"name":"萌蛋蛋","url":"http://app.mengdandan.com/xgapp.php/v1/"},
 
 ],
 
