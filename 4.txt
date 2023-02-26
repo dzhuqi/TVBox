@@ -202,16 +202,7 @@
       "type": 3,
       "url": "Demo"
     },
-      {
-      "name": "parwix稳定",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
-      "name": "七哥解析",
-      "type": 0,
-      "url": "https://jx.nnxv.cn/tv.php?url="
-    },
+ 
     {
       "name": "虾米解析",
       "type": 0,
