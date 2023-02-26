@@ -152,36 +152,8 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类\":\"电影$1#续集$2#综艺$3#动漫$4#世界杯$32\",\"分类url\":\"https://www.qiip.cc/vod/show/id/{cateId}.html\",\"筛选\":\"1\"}"
-    },
-    {
-      "key": "人人影视",
-      "name": "👫人人影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\r\n  \"name\": \"人人影视\",\r\n  \"url\": \"https://www.rr520.cc/\",\r\n  \"User\": \"空\",\r\n  \"shouye\": \"1\",\r\n  \"fenlei\": \"电视剧$/show/2--------#电影$/show/1--------#综艺$/show/3--------#动漫$/show/4--------#国产剧$/show/13--------#港台剧$/show/14--------#日韩剧$/show/15--------#欧美剧$/show/16--------#国产动漫$/show/4-国产-------#日本动漫$/show/4-日本-------\",\r\n  \"houzhui\": \"---.html\",\r\n  \"shifouercijiequ\": \"0\",\r\n  \"jiequqian\": \"空\",\r\n  \"jiequhou\": \"空\",\r\n  \"jiequshuzuqian\": \"class=\\\"col-md-6 col-sm-4 col-xs-3\\\"\",\r\n  \"jiequshuzuhou\": \"</li>\",\r\n  \"tupianqian\": \"data-original=\\\"\",\r\n  \"tupianhou\": \"\\\"\",\r\n  \"biaotiqian\": \"title=\\\"\",\r\n  \"biaotihou\": \"\\\"\",\r\n  \"lianjieqian\": \"href=\\\"\",\r\n  \"lianjiehou\": \"\\\"\",\r\n  \"sousuohouzhui\": \"/vod/\",\r\n  \"jspic\": \"pic\",\r\n  \"jsname\": \"name\",\r\n  \"jsid\": \"id\",\r\n  \"sousuoqian\": \"/index.php/ajax/suggest?mid=1&wd=\",\r\n  \"sousuohou\": \"&limit=500\",\r\n  \"ssmoshi\": \"0\",\r\n  \"sousuoshifouercijiequ\": \"0\",\r\n  \"ssjiequqian\": \"空\",\r\n  \"ssjiequhou\": \"空\",\r\n  \"ssjiequshuzuqian\": \"空\",\r\n  \"ssjiequshuzuhou\": \"空\",\r\n  \"sstupianqian\": \"空\",\r\n  \"sstupianhou\": \"空\",\r\n  \"ssbiaotiqian\": \"空\",\r\n  \"ssbiaotihou\": \"空\",\r\n  \"sslianjieqian\": \"空\",\r\n  \"sslianjiehou\": \"空\",\r\n  \"bfshifouercijiequ\": \"0\",\r\n  \"bfjiequqian\": \"空\",\r\n  \"bfjiequhou\": \"空\",\r\n  \"bfjiequshuzuqian\": \"class=\\\"stui-content__playlist\",\r\n  \"bfjiequshuzuhou\": \"</ul>\",\r\n  \"zhuangtaiqian\": \"分类：</span>\",\r\n  \"zhuangtaihou\": \"</p>\",\r\n  \"daoyanqian\": \"导演：</span>\",\r\n  \"daoyanhou\": \"</p>\",\r\n  \"zhuyanqian\": \"主演:  </span>\",\r\n  \"zhuyanhou\": \"</p>\",\r\n  \"juqingqian\": \"简介：</span>\",\r\n  \"juqinghou\": \"</span>\",\r\n  \"bfyshifouercijiequ\": \"0\",\r\n  \"bfyjiequqian\": \"空\",\r\n  \"bfyjiequhou\": \"空\",\r\n  \"bfyjiequshuzuqian\": \"<a\",\r\n  \"bfyjiequshuzuhou\": \"/a>\",\r\n  \"bfbiaotiqian\": \">\",\r\n  \"bfbiaotihou\": \"<\",\r\n  \"bflianjieqian\": \"href=\\\"\",\r\n  \"bflianjiehou\": \"\\\"\"\r\n}"
-    },
-    {
-      "key": "动漫直链",
-      "name": "🎭动漫直链",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\r\n  \"ua\": \"\",\r\n  \"homeUrl\": \"https://dm84.tv\",\r\n  \"cateNode\": \"//ul[contains(@class,'nav_row')]/li/a[contains(@href, '.html')]\",\r\n  \"cateName\": \"/text()\",\r\n  \"cateId\": \"/@href\",\r\n  \"cateIdR\": \"/list-(\\\\d+).html\",\r\n  \"cateManual\": {},\r\n  \"homeVodNode\": \"//ul[@class='v_list']/li/div[@class='item']\",\r\n  \"homeVodName\": \"/a[@class='title']/@title\",\r\n  \"homeVodId\": \"/a[@class='title']/@href\",\r\n  \"homeVodIdR\": \"/v/(\\\\w+).html\",\r\n  \"homeVodImg\": \"/a/@data-bg\",\r\n  \"homeVodMark\": \"/span[@class='desc']/text()\",\r\n  \"cateUrl\": \"https://dm84.tv/list-{cateId}-{catePg}.html\",\r\n  \"cateVodNode\": \"//ul[@class='v_list']/li/div[@class='item']\",\r\n  \"cateVodName\": \"/a[@class='title']/@title\",\r\n  \"cateVodId\": \"/a[@class='title']/@href\",\r\n  \"cateVodIdR\": \"/v/(\\\\w+).html\",\r\n  \"cateVodImg\": \"/a/@data-bg\",\r\n  \"cateVodMark\": \"/span[@class='desc']/text()\",\r\n  \"dtUrl\": \"https://dm84.tv/v/{vid}.html\",\r\n  \"dtNode\": \"//div[contains(@class,'v_content')]\",\r\n  \"dtName\": \"/parent::*/h1[@class='v_title']/a/text()\",\r\n  \"dtImg\": \"/div[@class='cover']/img/@src\",\r\n  \"dtFromNode\": \"//ul[contains(@class,'play_from')]/li\",\r\n  \"dtFromName\": \"/text()\",\r\n  \"dtUrlNode\": \"//ul[contains(@class,'play_list')]\",\r\n  \"dtUrlSubNode\": \"/li/a\",\r\n  \"dtUrlId\": \"@href\",\r\n  \"dtUrlIdR\": \"/p/(\\\\S+).html\",\r\n  \"dtUrlName\": \"/text()\",\r\n  \"playUrl\": \"https://dm84.tv/p/{playUrl}.html\",\r\n  \"searchUrl\": \"https://dm84.tv/s----------.html?wd={wd}\",\r\n  \"scVodNode\": \"//ul[@class='v_list']/li/div[@class='item']\",\r\n  \"scVodName\": \"/a[@class='title']/@title\",\r\n  \"scVodId\": \"/a[@class='title']/@href\",\r\n  \"scVodIdR\": \"/v/(\\\\w+).html\",\r\n  \"scVodImg\": \"/a/@data-bg\",\r\n  \"scVodMark\": \"/span[@class='desc']/text()\"\r\n}"
-    },
-    {
-      "key": "csp_Cokemv",
-      "name": "🎀Cokemv",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     }
+   
   ],
   "lives": [
     {
@@ -198,9 +170,9 @@
   ],
   "parses": [
     {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
+      "name": "很牛逼",
+      "type": 30,
+      "url": "https://okjx.cc/?url="
     },
  
     {
