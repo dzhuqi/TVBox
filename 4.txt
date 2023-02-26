@@ -169,11 +169,7 @@
     }
   ],
   "parses": [
-    {
-      "name": "很牛逼",
-      "type": 30,
-      "url": "https://okjx.cc/?url="
-    },
+   
  
     {
       "name": "虾米解析",
