@@ -190,7 +190,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vZHpodXFpL1RWQm94L3Jhdy9tYXN0ZXIvanNvbi8yLnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vZHpodXFpL1RWQm94L3Jhdy9tYXN0ZXIvemIudHh0"
           ]
         }
       ]
@@ -239,15 +239,11 @@
       "url": "https://jx.4kdv.com/?url="
     },
     {
-      "name": "备用1",
+      "name": "365解析",
       "type": 0,
       "url": "https://chaxun.truechat365.com/?url="
-    },
-    {
-      "name": "备用2",
-      "type": 0,
-      "url": "http://lan.ccabc.cc/jx.php?url="
     }
+  
   ],
   "ijk": [
     {
@@ -471,6 +467,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "https://yydsys.top/bg.php",
+  "wallpaper": "",
   "spider": "./jar/Box.jar;md5;4674DFA481F05949F2A94E8B27D8F39B"
 }
