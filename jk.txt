@@ -51,7 +51,7 @@
 }
 ],
 "wallpaper":"",
-"spider":"https://gitee.com/dzhuqi/TVBox/raw/master/jar/2212.jar",
+"spider":"./jar/2212.jar",
 
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
