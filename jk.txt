@@ -22,15 +22,7 @@
     }, 
 {"key":"量子影视","name":" 🐢量子影视","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
   
-    {
-      "key": "SPQQ",
-      "name": " 🐢腾讯视频",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "SPIQY",
       "name": " 🐢爱奇艺",
