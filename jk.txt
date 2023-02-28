@@ -1,5 +1,7 @@
 {
   "sites": [
+  
+  {"key":"SPQQ","name":" 🐢腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1，"filterable": 1},
   {
       "key": "csp_Xinsj",
       "name": "  🦑视觉影院",
