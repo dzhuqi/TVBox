@@ -86,10 +86,13 @@ ce,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227059/index
 咪咕体育,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227047/index.m3u8
 
 🌏｜🇨🇳｜香港台,#genre#
-凤凰卫视中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰卫视中文台,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰卫视资讯台,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-凤凰卫视资讯台,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
