@@ -74,7 +74,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vZHpodXFpL1RWQm94L3Jhdy9tYXN0ZXIvemIudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vZHpodXFpL1RWQm94L3Jhdy9tYXN0ZXIvanNvbi8yLnR4dA=="
           ]
         }
       ]
