@@ -98,25 +98,6 @@ ce,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227059/index
 
 
 🇨🇳｜央视频道,#genre#
-CCTV1 综合,http://iptva.cn/api/M3u8/Index?id=597&card=99982475359
-CCTV2 财经,http://iptva.cn/api/M3u8/Index?id=598&card=99982475359
-CCTV3 综艺,http://iptva.cn/api/M3u8/Index?id=599&card=99982475359
-CCTV4 中文国际,http://iptva.cn/api/M3u8/Index?id=600&card=99982475359
-CCTV5 体育,http://iptva.cn/api/M3u8/Index?id=601&card=99982475359
-CCTV5+ 体育赛事,http://iptva.cn/api/M3u8/Index?id=602&card=99982475359
-CCTV6 电影,http://iptva.cn/api/M3u8/Index?id=603&card=99982475359
-CCTV7 国防军事,http://iptva.cn/api/M3u8/Index?id=604&card=99982475359
-CCTV8 电视剧,http://iptva.cn/api/M3u8/Index?id=605&card=99982475359
-CCTV9 纪录,http://iptva.cn/api/M3u8/Index?id=606&card=99982475359
-CCTV10 科教,http://iptva.cn/api/M3u8/Index?id=607&card=99982475359
-CCTV11 戏曲,http://iptva.cn/api/M3u8/Index?id=608&card=99982475359
-CCTV12 社会与法,http://iptva.cn/api/M3u8/Index?id=609&card=99982475359
-CCTV13 新闻,http://iptva.cn/api/M3u8/Index?id=610&card=99982475359
-CCTV14 少儿,http://iptva.cn/api/M3u8/Index?id=611&card=99982475359
-CCTV15 音乐,http://iptva.cn/api/M3u8/Index?id=612&card=99982475359
-CCTV16 奥林匹克,http://iptva.cn/api/M3u8/Index?id=613&card=99982475359
-CCTV17 农业农村,http://iptva.cn/api/M3u8/Index?id=614&card=99982475359
-
 
 CCTV-1 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 CCTV-2 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
