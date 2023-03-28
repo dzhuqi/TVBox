@@ -348,5 +348,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "",
-  "spider": "./jar/Box.jar;md5;4674DFA481F05949F2A94E8B27D8F39B"
+  "spider": "./jar/0128.jar;"
 }
