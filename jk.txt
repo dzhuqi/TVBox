@@ -1,6 +1,6 @@
 {
   "sites": [
-  {"key":"mtv_pc_小苹果源","name":"爬虫┃小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/dzhuqi/TVBox/raw/master/jar/xpg.jar"},
+  {"key":"mtv_pc_小苹果源","name":"爬虫┃小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"/jar/xpg.jar"},
   {
       "key": "SPQQ",
       "name": " 🐢腾讯视频",
